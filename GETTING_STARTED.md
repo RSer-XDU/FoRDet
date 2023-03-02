@@ -92,12 +92,7 @@ For methods with only HBB Head, se the type HBB
 ```
 python tools/parse_results.py --config configs/DOTA/faster_rcnn_r50_fpn_1x_dota.py --type HBB
 ```
-### Demo of inference in a large size image.
 
-
-```python
-python demo_large_image.py
-```
 
 
 ## Train a model
